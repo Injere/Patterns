@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRAW", "DRAW\DRAW.csproj", "{E1AC202D-52DF-41D5-AEE8-850044AB2A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AC202D-52DF-41D5-AEE8-850044AB2A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AC202D-52DF-41D5-AEE8-850044AB2A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AC202D-52DF-41D5-AEE8-850044AB2A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AC202D-52DF-41D5-AEE8-850044AB2A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4AD95BA-09C3-4F7E-87F6-4F10BE2194A9}
+	EndGlobalSection
+EndGlobal
